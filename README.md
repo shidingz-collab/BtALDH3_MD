@@ -2,7 +2,7 @@
 Repository for BtALDH3 MD simulation protocol
 
 ## 1. Abstract
-This repository contains molecular dynamics (MD) simulation data and analysis code for the manuscript A Sequence Motif Enables Widespread Use of Non-Canonical Redox Cofactors in Natural Enzymes published in Nature Chemical Biology. We performed  MD simulations (20 ns per system) on BtALDH3 WT, mutant variants R289A, H290A, H290L, R293A, and R289A/H290A/R293A to pinpoint the effect of the RH/QxxR motif in stabilizing the catalytically important E333-G337 loop.
+This repository contains molecular dynamics (MD) simulation data and analysis code for the manuscript **<ins> A Sequence Motif Enables Widespread Use of Non-Canonical Redox Cofactors</ins>** in Natural Enzymes published in Nature Chemical Biology. We performed  MD simulations (20 ns per system) on BtALDH3 WT, mutant variants R289A, H290A, H290L, R293A, and R289A/H290A/R293A to pinpoint the effect of the RH/QxxR motif in stabilizing the catalytically important E333-G337 loop.
 
 ---
 
