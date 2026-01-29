@@ -38,7 +38,7 @@ Generate the topology, define the simulation box, solvate the system, and add io
 
 ```bash
 # 1. Generate topology from PDB
-# Input '1' selects the Force Field (Adjust based on your specific force field index)
+# Input '1' selects the Force Field (CHARMM36 force field index, note that putting "/charmm36-feb2021.ff" subfolder into working folder)
 echo 1 | gmx_mpi pdb2gmx -o protein.gro -water tip3p -ignh -f Initial Structure protonated.pdb
 
 # 2. Define simulation box (Dodecahedron, 1.0 nm buffer)
