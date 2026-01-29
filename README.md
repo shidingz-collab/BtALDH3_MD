@@ -116,7 +116,7 @@ This section details the workflow for extracting post-simulation data and perfor
 
 For each trajectory, the following protocol was applied:
 
-1) **Trajectory Processing:** Monomers were aligned to a reference structure to remove rotational and translational motions.
+1) **Trajectory Processing:** Frames were aligned to a reference structure to remove rotational and translational motions.
 2) **RMSF Calculation:** RMSF values were computed specifically for **Cα atoms** across residues **333–337** to quantify local flexibility in this region.
 3) **Statistical Analysis:**
 * RMSF values were averaged across residues for each simulation.
