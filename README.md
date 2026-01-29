@@ -26,7 +26,7 @@ This repository contains the workflow for reproducing the molecular dynamics (MD
 
 * **Hardware:** A high-performance computing (HPC) cluster with GPU acceleration is required for the production phase.
 * **Input Files:** Ensure the following files are in your working directory: `Initial Structure protonated.pdb`
-* Parameter files: `ions.mdp`, `em_real.mdp`, `nvt.mdp`, `npt.mdp`, `md-250ns.mdp`
+* **Parameter files:** `ions.mdp`, `em_real.mdp`, `nvt.mdp`, `npt.mdp`, `md-250ns.mdp`
 
 
 
